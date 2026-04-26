@@ -1,0 +1,23 @@
+# Compilados
+*.exe
+*.res
+*.o
+*.obj
+
+# Dados do usuário (nunca commitar)
+config.dat
+vault.dat
+
+# MSYS2 / MinGW temporários
+*.a
+*.dll
+
+# Editores
+.vscode/
+*.swp
+*~
+.DS_Store
+
+# Releases
+/dist/
+/release/
